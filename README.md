@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gichimu
+- 👋 Hi, I’m @Eric Gichimu
 - 👀 I’m interested in Angular and python
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any open source projects in the above tech stacks
