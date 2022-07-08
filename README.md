@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Eric Gichimu
-- 👀 I’m interested in Angular and python
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on any open source projects in the above tech stacks
+- 👋 Hi, I’m Eric Gichimu.
+- 👀 I’m interested in Angular, NodeJs, Slim3/4, Django and Laravel.
+- 🌱 I’m fascinated by the diversity of cultures from all over. Currently learning dholuo.
+- 💞️ I’m looking to collaborate on any intriguing project that's likely to blow my mind. So hit me up.
 - 📫 How to reach me: gichimueric12@gmail.com
 
 <!---
